@@ -16,5 +16,6 @@
       for (j=0; j<4; j++)
         printf("%lf ", t[i][j]);
       printf("\n");
+      return(t);
     }
   } 
